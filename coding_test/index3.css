@@ -1,0 +1,52 @@
+
+
+body{
+        background: darkslategrey;
+        font-family:Arial,Helvetica,sans-serif ;
+        padding:20px ;
+        text-align: center;
+
+
+}
+.Blackjack{
+
+    font-weight: bold;
+    background-color:darkslategrey;
+    text-align: center;
+
+}
+h1{
+    color: darkgoldenrod;
+}
+p.got_bl{
+    font-size: 25px;
+    overflow: auto;
+    font-family: "Harlow Solid Italic";
+    color:whitesmoke ;
+}
+p.num{
+    font-size: 20px;
+    color: white;
+}
+p.sum_bl{
+    font-size: 20px;
+    color:white;
+
+}
+p.per_bl{
+    font-size: 20px;
+    color: whitesmoke;
+}
+button{
+    background: darkgoldenrod;
+    color: black;
+    margin-top:10px;
+    border:1px solid black;
+    padding:10px 16px;
+    font-weight: bold;
+    cursor:pointer;
+    border-radius:20px;
+}
+#msg{
+    color: whitesmoke;
+}
