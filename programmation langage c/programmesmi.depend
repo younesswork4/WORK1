@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1708545885 source:c:\users\abdel\onedrive - um5.ac.ma\desktop\2024\javascript\programmesmi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listedebut.h"
+
+1708538056 source:c:\users\abdel\onedrive - um5.ac.ma\desktop\2024\javascript\programmesmi\test.c
+
+1708545603 c:\users\abdel\onedrive - um5.ac.ma\desktop\2024\javascript\programmesmi\test.c
+	<stdio.h>
+
+1708545935 c:\users\abdel\onedrive - um5.ac.ma\desktop\2024\javascript\programmesmi\listedebut.h
+
